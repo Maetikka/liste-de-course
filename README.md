@@ -1,4 +1,4 @@
-# liste-de-course
+# Liste-de-course
 
 Compteur pour liste de course (ajout et suppression de produits)
 
@@ -6,7 +6,10 @@ Compteur pour liste de course (ajout et suppression de produits)
 ![shema](compteur.png)
 ![shema](compteur1.png)
 
-# liste composant
+#Video
+https://youtu.be/px9Snur4AwU
+
+# Liste composant
 
 + 2 bouton push
 + 1 ESP 32
