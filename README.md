@@ -1,6 +1,6 @@
 # liste-de-course
 
-Compteur pour liste de course
+Compteur pour liste de course (ajout et suppression de produits)
 
 # Node-red
 ![shema](compteur.png)
