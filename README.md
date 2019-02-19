@@ -6,6 +6,11 @@ Compteur pour liste de course (ajout et suppression de produits)
 ![shema](compteur.png)
 ![shema](compteur1.png)
 
+# vidéo
+
+
+
+
 # liste composant
 
 + 2 bouton push
