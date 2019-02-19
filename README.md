@@ -6,8 +6,13 @@ Compteur pour liste de course (ajout et suppression de produits)
 ![shema](compteur.png)
 ![shema](compteur1.png)
 
-#Video
+# Video
 https://youtu.be/px9Snur4AwU
+
+# bibliothèque
+ + uTimer
+ + Adafruit_MQTT
+ + WiFi 
 
 # Liste composant
 
